@@ -3,4 +3,5 @@ are here so that I can use [ipython notebook online viewer] (http://nbviewer.ipy
 them through a url.
 
 
-
+* (logFileSizePlot.ipynb)[http://nbviewer.ipython.org/urls/raw.github.com/wuzhigang05/ipythonNotebooks/master/logFileSizePlot.ipynb]
+* (matplotlibTutorial.ipynb) [http://nbviewer.ipython.org/urls/raw.github.com/wuzhigang05/ipythonNotebooks/master/matplotlibTutorial.ipynb]
