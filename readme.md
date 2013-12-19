@@ -5,4 +5,3 @@ them through a url.
 
 * [logFileSizePlot.ipynb] (http://nbviewer.ipython.org/urls/raw.github.com/wuzhigang05/ipythonNotebooks/master/logFileSizePlot.ipynb)
 * [matplotlibTutorial.ipynb] (http://nbviewer.ipython.org/urls/raw.github.com/wuzhigang05/ipythonNotebooks/master/matplotlibTutorial.ipynb)
-* [bytes_sent2 and bytes_sent3 comparison] (http://nbviewer.ipython.org/github/wuzhigang05/ipythonNotebooks/blob/master/compareBytesSent2and3.ipynb?create=1)
